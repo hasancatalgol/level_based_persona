@@ -1,5 +1,5 @@
 # Level Based Persona
-[people-43575_960_720](https://cdn.pixabay.com/photo/2012/04/28/17/11/people-43575_960_720.png)
+![people-43575_960_720](https://cdn.pixabay.com/photo/2012/04/28/17/11/people-43575_960_720.png)
 ## Business Problem & Purpose
 
 To make new customer definitions by using the characteristics of individual customers  **(level based persona)**.
